@@ -9,7 +9,7 @@ The dataset provides 70.000 images (28x28pixels) of handwritten digit (1 digit p
 
 The goal is to write an algorithm that detecs which digit is written. Since there are only 10 digit(0-9), this is a   classification problem with 10 classes. 
 
-Our goal would be to build a neural network with 2 hidden layers.  
+Our goal would be to build a neural network with 5 hidden layers.  
 
 ## The action Plan
 1. Prepare our data and preprocess it. Create training, validation, and test dataset
